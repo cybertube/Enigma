@@ -1,5 +1,5 @@
 # Enigma
-   ================================================================================
+
    Enigma.cpp
 
    Enigma Simulator by James A. McCombe, 2013
@@ -28,4 +28,3 @@
    Decrypt     : FEIND LIQEI NFANT ERIEK OLONN EBEOB AQTET XANFA NGSUE DAUSG ANGBA ERWAL DEXEN DEDRE IKMOS TWAER TSNEU STADT
    German      : Feindliche Infanterie Kolonne beobachtet. Anfang Südausgang Bärwalde. Ende 3km ostwärts Neustadt.
    English     : Enemy infantry column was observed. Beginning [at] southern exit [of] Baerwalde. Ending 3km east of Neustadt.
-   ================================================================================
